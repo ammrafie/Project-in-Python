@@ -1,6 +1,6 @@
 # Python Projects
 
 
-| Project          | Description                                             |
+| Project Name     | Description                                             |
 |------------------|---------------------------------------------------------|
 | ridimensionare   | Content-aware Image Resizer using Dynamic Programming   |
