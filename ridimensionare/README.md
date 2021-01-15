@@ -9,7 +9,7 @@ Though this project can produce great results on many images but, it has some li
 
 There are three steps in the implementation:
 
-| Step | Exercise file | Description                                |
+| Step | File          | Description                                |
 |------|---------------|--------------------------------------------|
 | 1    | `energy.py`   | Energy calculation                         |
 | 2    | `seam.py`     | Finding the lowest-energy seam             |
