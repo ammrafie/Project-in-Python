@@ -3,9 +3,9 @@ Introduction
 
 This is a Content-aware Image Resizer developed in Python.
 
-Using traditional image resizing methods we may have to sacrifice parts of the image we don't want to.
-Content Aware image resizing, resizes an image based on the contents of the image. This gives us more flexibility then the common Image Resizer. This projects core algorithm is based on dynamic programming which lets us get the job done efficiently.
-Though this project can produce great results on many images, it has some limitations which includes not taking features of an image into account, like face detection, and foreground & background segmentation.
+Using traditional image resizing methods we may have to sacrifice parts of the image we don't want to. On the other hand, Content Aware Image Resizing, resizes an image based on the contents of the image. This gives us more flexibility then the common Image Resizer. This project's core algorithm is based on dynamic programming which lets us get the job done efficiently.
+
+Though this project can produce great results on many images but, it has some limitations which includes not taking some features of an image into account, like face detection, and foreground & background segmentation. Since python isn't very fast, the producing the output can take some time depending how much one wants to squash an image.
 
 There are three steps in the implementation:
 
